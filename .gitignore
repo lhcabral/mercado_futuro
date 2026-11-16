@@ -1,0 +1,17 @@
+.venv/
+.tooling/
+__pycache__/
+*.py[cod]
+*.sqlite3
+media/
+staticfiles/
+.env
+app/.dart_tool/
+app/build/
+app/.flutter-plugins
+app/.flutter-plugins-dependencies
+app/android/.gradle/
+app/ios/Pods/
+*.iml
+.idea/
+.DS_Store

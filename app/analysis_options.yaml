@@ -1,0 +1,14 @@
+analyzer:
+  exclude:
+    - build/**
+    - android/**
+    - ios/**
+    - linux/**
+    - web/**
+  errors:
+    deprecated_member_use: ignore
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    avoid_print: false
